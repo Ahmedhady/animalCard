@@ -1,0 +1,33 @@
+.container{
+    border: 1px solid black;
+    /*margin:0.5em;*/
+    padding:0.5em;
+    width: 360px;
+    height: 550px;
+    display:flex;
+    flex-wrap: wrap;
+}
+
+.box{
+    border: 1px solid black;
+    /*margin:0.5em;*/
+    padding:0.5em;
+    width: 350px;
+    height:250px;
+}
+
+.animalPic{
+    width:350px;
+    height:200px;
+    /*margin:0.5em;*/
+    padding:0.5em;
+}
+
+li{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+ul{
+    padding: 0;
+}
